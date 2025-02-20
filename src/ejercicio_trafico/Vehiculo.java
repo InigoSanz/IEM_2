@@ -78,4 +78,6 @@ public class Vehiculo {
 	public void setVelocidadMaxima(double velocidadMaxima) {
 		this.velocidadMaxima = velocidadMaxima;
 	}
+	
+	
 }
